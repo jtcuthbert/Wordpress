@@ -1,0 +1,15 @@
+Added theme code to theinsightfuldieitian - functions.php file - 
+
+
+UNDER
+
+Appearance -------------->>>>>>>>>>>>> Editor -------------->>>>>>>>>>>>>>>>>
+
+Theme Functions
+
+(functions.php)
+
+
+
+
+add_theme_support( 'align-wide' );
